@@ -1,4 +1,5 @@
 import tkinter as tk
+# This is created by Akshit Singh refer t0 github repo for more information.
 import random
 import time
 
